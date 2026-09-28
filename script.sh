@@ -2,7 +2,7 @@
 
 total=0
 
-for fichier in $(find . -type f)
+for fichier in $(find JavaDoc/ -type f )
 do
     lignes=$(wc -l < "$fichier")
     total=$((total + lignes))
