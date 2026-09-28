@@ -1,1 +1,4 @@
 # R5.A.08
+
+- `DEV1` : Enzo CORDOVANA
+- `DEV2` : Simon EL KASSOUF
